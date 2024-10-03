@@ -1,8 +1,4 @@
-package Chapter03;
-
-import Chapter03.Solution01;
-
-import java.util.Arrays;
+package chapter03.practice01;
 
 public class Main01 {
     public static void main(String[] args) {

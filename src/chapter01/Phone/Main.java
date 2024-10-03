@@ -1,4 +1,4 @@
-package Chapter01.Phone;
+package chapter01.Phone;
 
 public class Main {
     public static void main(String[] args) {
